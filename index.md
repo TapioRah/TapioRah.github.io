@@ -10,5 +10,10 @@ Tässä on yksinkertainen HTML-sivu, jonka voit avata selaimessa.
 - Toinen
 - Kolmas
 
+Tänne vielä vähän päivitystä nettisivuista!
+HiioHoiii!
+
+Tietodet 1.10.2024: blaa blaa blaa.
+
 Voit myös klikata [Googleen](https://www.google.com)
 
