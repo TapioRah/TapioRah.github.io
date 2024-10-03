@@ -10,8 +10,11 @@ Tähän alisivuun on tehty muotoiltu versio edellisestä tehtävästä, jossa on
 
 ### 1.1 Italics and Bold
 Writing in Markdown is _not_ that hard!  
-I **will** complete these lessons!  
-_Of course_, it takes **a little moxie** to learn new things!  
+
+I **will** complete these lessons! 
+
+_Of course_, it takes **a little moxie** to learn new things! 
+
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 ## 2. Headers in Markdown

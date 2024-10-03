@@ -3,8 +3,11 @@
 
 
 Writing in Markdown is _not_ that hard!
+
 I **will** complete these lessons!
+
 _Of course_, it takes **a little moxie** to learn new things!
+
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 # Header one
@@ -85,8 +88,8 @@ I read this interesting quote the other day:
    For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 We pictured the meek mild creatures where  
-They dwelt in their strawy pen,  
-Nor did it occur to one of us there  
+They dwelt in their strawy pen, 
+Nor did it occur to one of us there 
 To doubt they were kneeling then.
 
 1. Crack three eggs over a bowl.  
